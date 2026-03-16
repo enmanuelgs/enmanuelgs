@@ -6,7 +6,6 @@
 [![ITLA](https://img.shields.io/badge/ITLA-Técnico%20Superior%20en%20Desarrollo%20de%20Software-0057A8?style=flat-square&logoColor=white)](https://www.itla.edu.do/)
 [![GPA](https://img.shields.io/badge/Índice%20Académico-3.8%20%2F%204.0-gold?style=flat-square)](https://www.itla.edu.do/)
 [![Dominican Republic](https://img.shields.io/badge/🇩🇴-Santo%20Domingo%2C%20RD-002D62?style=flat-square)](https://en.wikipedia.org/wiki/Dominican_Republic)
-[![PLERD](https://img.shields.io/badge/PLERD-Voluntario%20Nacional-green?style=flat-square)](https://plerd.edu.do/)
 
 📧 enmanuelgs002@gmail.com &nbsp;|&nbsp; 📞 +1 809 706 1588
 
