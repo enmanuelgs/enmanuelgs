@@ -91,10 +91,6 @@ Solución tecnológica integral para la administración y evaluación de Modelos
 
 <div align="center">
 
-## 📫 Contacto
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://egsportafolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enmanuelgs)
 [![Email](https://img.shields.io/badge/enmanuelgs002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enmanuelgs002@gmail.com)
