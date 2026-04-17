@@ -7,7 +7,7 @@
 [![GPA](https://img.shields.io/badge/Índice%20Académico-3.8%20%2F%204.0-gold?style=flat-square)](https://www.itla.edu.do/)
 [![Dominican Republic](https://img.shields.io/badge/🇩🇴-Santo%20Domingo%2C%20RD-002D62?style=flat-square)](https://en.wikipedia.org/wiki/Dominican_Republic)
 
-📧 enmanuelgs002@gmail.com &nbsp;|&nbsp; 📞 +1 809 706 1588
+🌐 [egsportafolio.vercel.app](https://egsportafolio.vercel.app/) &nbsp;|&nbsp; 📧 enmanuelgs002@gmail.com &nbsp;|&nbsp; 📞 +1 809 706 1588
 
 </div>
 
@@ -91,6 +91,11 @@ Solución tecnológica integral para la administración y evaluación de Modelos
 
 <div align="center">
 
+## 📫 Contacto
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://egsportafolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enmanuelgs)
 [![Email](https://img.shields.io/badge/enmanuelgs002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enmanuelgs002@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/%2B1%20809%20706%201588-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18097061588)
